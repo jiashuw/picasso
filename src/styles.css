@@ -8,7 +8,7 @@ body, span, div, dt {
 }
 
 #mainbody {
-  margin-left: 5px !important;
+  margin-left: 15px !important;
   padding-top: 0 !important;
 }
 
@@ -73,7 +73,7 @@ body, span, div, dt {
 #createEventButtonContainer {
   position: absolute;
   top: -47px !important;
-  left: 40px;
+  left: 44px;
   width: auto !important;
 }
 
@@ -167,7 +167,7 @@ body, span, div, dt {
 
 /* Individual event name, all-day event name */
 .cbrdcc, .st-c-pos, .evt-lk {
-  font-weight: bold !important;
+  font-weight: 500 !important;
   line-height: 1.2 !important;
 }
 
@@ -187,7 +187,7 @@ body, span, div, dt {
 
 /* Individual event time */
 .chip-caption {
-  font-size: 12px !important;
+  font-size: 11px !important;
 }
 .ctdiv {
   max-height: inherit !important;
